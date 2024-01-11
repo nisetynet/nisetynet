@@ -1,4 +1,6 @@
-### Hi there 👋
+### このアカウントについて
+趣味で作ったツールなどを公開しています。
+
 
 <!--
 **nisetynet/nisetynet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
